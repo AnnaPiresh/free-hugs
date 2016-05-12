@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  */
 
 
-public class TestClass {
+public class VkLoginStory {
 
     public WebDriver driver = new FirefoxDriver();
 
